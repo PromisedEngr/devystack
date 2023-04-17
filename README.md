@@ -35,12 +35,18 @@ Thanks for checking my profile.</p>
 Skype
 </td>
 <td>
+Telegram
+</td>
+<td>
 Phone Number
 </td>
 </tr>
 <tr>
 <td>
     live:.cid.f81c3a00cb1fc0c2
+</td>
+<td>
+    soft0Angel
 </td>
 <td>
     +1 678 999 8183
