@@ -8,8 +8,11 @@
 </div>
 <br/>
 
-<p>Plus 10 years of experience on frontend development. <br/>Focusing on quality of product and keeping deadline with excellent passion as fire.
-<br/>I 've worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
+<p>Plus 10 years of experience on frontend development. 
+  <br/>
+  Focusing on quality of product and keeping deadline with excellent passion as fire.
+  <br/>
+  I 've worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
 
 - Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js
 - Frontend Mobile development: React Native, Flutter
@@ -29,9 +32,6 @@ Thanks for checking my profile.</p>
 <table>
 <tr>
 <td>
-Gmail
-</td>
-<td>
 Skype
 </td>
 <td>
@@ -40,13 +40,10 @@ Phone Number
 </tr>
 <tr>
 <td>
-    kreagerservice21@gmail.com
+    live:.cid.f81c3a00cb1fc0c2
 </td>
 <td>
-    live:.cid.c1a4be3c8050e568
-</td>
-<td>
-    +1 412 567 3688
+    +1 678 999 8183
 </td>
 </tr>
 </table>
@@ -86,7 +83,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
     <td width="50%" valign="top">
       <h3 align="center">PetDog Complete Website</h3>
         <br />
-        <a target="_blank" href="https://petdogwebsite.netlify.app">
+        <a target="_blank" href="https://petdogwebsite.netlify.app" >
             <img src="https://github.com/TomLove223/Portfolio_Images/blob/main/img1.jpg" width="100%" alt="PetDog Complete Website"/>
         </a>
         <br />
