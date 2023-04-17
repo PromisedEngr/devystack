@@ -1,5 +1,5 @@
 <div>
-    <img align="right" alt="Coding" height="250" width="400" src="https://github.com/TomLove223/Portfolio_Images/blob/main/Profile%20image.gif">
+    <img align="right" alt="Coding" height="250" width="400" src="./src/profile_animation.gif">
 </div>
 
 <br/>
