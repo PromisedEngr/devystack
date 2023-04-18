@@ -165,6 +165,11 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
         <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
       </p>
+      <p align="left">
+        <strong> IDE used </strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      </p>
       <p align="center">
           
   <a href="https://github.com/devystack/integrated-nuxt2-template" target="_blank">
@@ -176,13 +181,13 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Food Website</h3>
+      <h3 align="center">E-commerce website</h3>
       <br />
-        <a target="_blank" href="https://tomlove223.github.io/Food-Website/">
-          <img src="https://github.com/TomLove223/Portfolio_Images/blob/main/img8.jpg" width="100%" alt="Food Website"/>
+        <a target="_blank" href="https://www.lainaraumalingerie.com/">
+          <img src="./src/lainaraumalingerie.com.png" width="100%" alt="lingerie website"/>
         </a>
       <br />
-        <p><strong>This is a website to buy food online.</strong></p>
+        <p><strong>This is a website to buy lingerie online.</strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
@@ -192,8 +197,13 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
         <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       </p>
+      <p align="left">
+        <strong> IDE used </strong>
+        <br/>
+        <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      </p>
       <p align="center">
-  <a href="https://github.com/TomLove223/Food-Website" target="_blank">
+  <a href="https://github.com/devystack/integrated-next-template" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://valentinefernandes.github.io/Food-Website/" target="_blank">
