@@ -206,7 +206,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
   <a href="https://github.com/devystack/integrated-next-template" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://valentinefernandes.github.io/Food-Website/" target="_blank">
+  <a href="https://www.lainaraumalingerie.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
