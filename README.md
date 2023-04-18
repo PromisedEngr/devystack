@@ -85,7 +85,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
 
 <h1 align="center">Projects</h1> 
 <table>  
-  <tr>
+  <!-- <tr>
     <td width="50%" valign="top">
       <h3 align="center">PetDog Complete Website</h3>
         <br />
@@ -146,7 +146,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
   </a>
       </p>
     </td>
-  </tr>
+  </tr> -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Game Website</h3>
@@ -212,15 +212,15 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
       </p>
     </td>
     </tr>
-    <tr>
+    <!-- <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Dental Website</h3>
+      <h3 align="center">Real Estate Website</h3>
         <br />
         <a target="_blank" href="https://TomLove223.github.io/DentalClinic-Website/">
           <img src="https://github.com/TomLove223/Portfolio_Images/blob/main/img9.jpg" width="100%" alt="Dental Website"/>
         </a>
         <br />
-        <p><strong>This is a dental clinic website.</strong></p>
+        <p><strong>This is angular boilerplate project.</strong></p>
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
@@ -241,7 +241,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
   <a href="https://github.com/TomLove223/DentalClinic-Website" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://valentinefernandes.github.io/DentalClinic-Website/" target="_blank">
+  <a href="hhttps://real-estate-management.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
@@ -277,8 +277,8 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
   </a>
       </p>
     </td>
-    </tr>
-    <tr>  
+    </tr> -->
+   <!--  <tr>  
     <td width="50%" valign="top">
       <h3 align="center">UI Assignment</h3>
         <br />
@@ -340,5 +340,5 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
   </a>
       </p>
     </td>
-  </tr>
+  </tr> -->
 </table>
