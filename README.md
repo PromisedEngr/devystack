@@ -183,8 +183,8 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
     <td width="50%" valign="top">
       <h3 align="center">E-commerce website</h3>
       <br />
-        <a target="_blank" href="https://www.lainaraumalingerie.com/">
-          <img src="./src/lainaraumalingerie.com.png"  hegiht="10" alt="lingerie website"/>
+        <a target="_blank" href="https://www.lainaraumalingerie.com/" align="center">
+          <img src="./src/lainaraumalingerie.com.png" align="center" hegiht="10" alt="lingerie website"/>
         </a>
       <br />
         <p><strong>This is a website to buy lingerie online.</strong></p>
