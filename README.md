@@ -152,7 +152,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
       <h3 align="center">Game Website</h3>
         <br />
         <a target="_blank" href="http://192.34.61.117/">
-          <img src="https://github.com/devystack/devystack/src/playge.to.png" width="100%" alt="eShop Website"/>
+          <img src="./src/playge.to.png" width="100%" alt="eShop Website"/>
         </a>
         <br />
         <p><strong>This is a website to buy clothes online.</strong></p>
