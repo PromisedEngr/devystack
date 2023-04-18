@@ -149,10 +149,10 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">eShop Website</h3>
+      <h3 align="center">Game Website</h3>
         <br />
-        <a target="_blank" href="http://localhost:8080/shopping-cart/index.jsp">
-          <img src="https://github.com/TomLove223/Portfolio_Images/blob/main/eshop1.jpg" width="100%" alt="eShop Website"/>
+        <a target="_blank" href="http://192.34.61.117/">
+          <img src="https://github.com/devystack/devystack/src/playge.to.png" width="100%" alt="eShop Website"/>
         </a>
         <br />
         <p><strong>This is a website to buy clothes online.</strong></p>
@@ -174,10 +174,10 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
       </p>
       <p align="center">
           
-  <a href="https://github.com/TomLove223/eShop-Website" target="_blank">
+  <a href="https://github.com/devystack/integrated-nuxt2-template" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=CODE&color=05F718&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://localhost:8080/shopping-cart/index.jsp" target="_blank">
+  <a href="http://192.34.61.117/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=82D8F9&style=plastic&logo=google-chrome&logo-color=white"/>
   </a>
       </p>
