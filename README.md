@@ -152,7 +152,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
       <h3 align="center">Game Website</h3>
         <br />
         <a target="_blank" href="http://192.34.61.117/">
-          <img src="./src/playge.to.png" width="100%" alt="eShop Website"/>
+          <img src="./src/playge.to.png" width="100%"  alt="game website"/>
         </a>
         <br />
         <p><strong>This is a game website online.</strong></p>
@@ -184,7 +184,7 @@ Oracle, MySQL, MS SQL Server, PostgreSQL, MongoDB
       <h3 align="center">E-commerce website</h3>
       <br />
         <a target="_blank" href="https://www.lainaraumalingerie.com/">
-          <img src="./src/lainaraumalingerie.com.png" width="100%" alt="lingerie website"/>
+          <img src="./src/lainaraumalingerie.com.png" width="100%" hegiht="240px" alt="lingerie website"/>
         </a>
       <br />
         <p><strong>This is a website to buy lingerie online.</strong></p>
