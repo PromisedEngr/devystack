@@ -1,6 +1,7 @@
 <h2 align="center">The Promised Technologies </h2>
 
 - Frontend Web Techs :
+<br>
 React.js, Next.js, Vue.js, Nuxt.js, Angular
 - Frontend Mobile development: React Native, Flutter
 - UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
