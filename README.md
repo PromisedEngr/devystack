@@ -115,7 +115,7 @@
       <h3 align="center">Game Website</h3>
       <br />
       <a target="_blank" href="http://192.34.61.117/">
-        <img src="./src/playge.to.png" width="100%" height="235" alt="game website"/>
+        <img src="./src/playge.to.png" width="100%" height="215" alt="game website"/>
       </a>
       <br />
       <div>
@@ -145,7 +145,7 @@
       <h3 align="center">E-commerce website</h3>
       <br />
         <a target="_blank" href="https://www.lainaraumalingerie.com/" align="center">
-          <img src="./src/lainaraumalingerie.com.png" align="center" width="100%" alt="lingerie website"/>
+          <img src="./src/lainaraumalingerie.com.png" align="center" width="100%" height="215" alt="lingerie website"/>
         </a>
       <br />
         <p><strong>This is a website to buy lingerie online.</strong></p>
@@ -299,6 +299,3 @@
     </td>
   </tr> -->
 </table>
-<div style="color:green">
-    Markdown inline css styles
-</div>
