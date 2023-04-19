@@ -115,10 +115,10 @@
       <h3 align="center">Game Website</h3>
       <br />
       <a target="_blank" href="http://192.34.61.117/">
-        <img src="./src/playge.to.png" width="100%" alt="game website"/>
+        <img src="./src/playge.to.png" width="100%" height="235" alt="game website"/>
       </a>
       <br />
-      <div style="height: 4500px" hegit = "235">
+      <div>
         <p><strong>This is a game website online.</strong></p>
         <p align="left">
           <strong> Technologies used </strong>
