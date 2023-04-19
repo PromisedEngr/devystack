@@ -1,14 +1,7 @@
-<h2 align="center">Technologies in Wonder</h2>
+<h2 align="center">The Promised Technologies </h2>
 
-<h
-
-<p>Plus 10 years of experience on frontend development. 
-  <br/>
-  Focusing on quality of product and keeping deadline with excellent passion as fire.
-  <br/>
-  I 've worked a lot in PWA and Hybrid app development as frontend developer using:<br/>
-
-- Frontend Web development : React.js, Next.js, Vue.js, Nuxt.js
+- Frontend Web Techs :
+React.js, Next.js, Vue.js, Nuxt.js, Angular
 - Frontend Mobile development: React Native, Flutter
 - UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
 
