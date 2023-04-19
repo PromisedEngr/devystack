@@ -118,7 +118,7 @@
         <img src="./src/playge.to.png" width="100%" alt="game website"/>
       </a>
       <br />
-      <div style="height: 450px">
+      <div style="height: 4500px">
         <p><strong>This is a game website online.</strong></p>
         <p align="left">
           <strong> Technologies used </strong>
