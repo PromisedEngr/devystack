@@ -151,7 +151,7 @@
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
-        - Nextjs, TailwindCSS, GraphQL
+        <li> Nextjs, TailwindCSS, GraphQL </li>
       </p>
       <p align="left">
         <strong> IDE used </strong>
