@@ -122,8 +122,8 @@
       <p align="left">
         <strong> Technologies used </strong>
         <br/>
-        - Nuxt2, SCSS, BootstrapVue, Toast
-        - Expressjs, twilio, MSSQL, MySQL
+        <li>Nuxt2, SCSS, BootstrapVue, Toast</li>
+        <li>Expressjs, twilio, MSSQL, MySQL</li>
       </p>
       <p align="left">
         <strong> IDE used </strong>
