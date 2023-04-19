@@ -20,16 +20,20 @@
 - Java, Spring Boot
 - Authentication & Authorization (JWT, Oauth2), Authorized API, REST api, GraphQL, gRPC, Websocket
 
-#### Database
-- MySQL, MS SQL Server, PostgreSQL, MongoDB
-- Redis, Memecached
-- Elasticsearch, Apache Kafka
-
 #### Blockchain Development
 - Ethereum, Solana, Polygon, Tron, Wax
 - Solidity, Rust, C++, Web 3, Remix, Truffle, Hardhat
 - Creating fungible/non-fungible tokens with Standards (ERC20, ERC721, ERC1155, BEP20...), Crypto currency 
 - NFT marketplace, NFT minting, DAO
+
+#### Third party services
+- stmp, twilio 
+
+
+#### Database
+- MySQL, MS SQL Server, PostgreSQL, MongoDB
+- Redis, Memecached
+- Elasticsearch, Apache Kafka
 
 #### Cloud Service Support
 - Amazon Web Services (AWS)
