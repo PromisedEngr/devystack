@@ -1,47 +1,17 @@
 <h2 align="center">The Promised Technologies </h2>
 
-#### Frontend and Backend Development
-React.js, Next.js, Vue.js, Nuxt.js, Angular
-- Frontend Web Techs :__
-React.js, Next.js, Vue.js, Nuxt.js, Angular
-- Frontend Mobile development: React Native, Flutter
-- UI design libraries: Material-UI, Ant Design, React Bootstrap, BootstrapVue, Quasar, Vuetify
+#### Frontend Development
+- React.js, Next.js
+- Vue.js, Nuxt.js
+- Angular
 
-Very good experienced Javascript, Typescript, Node.js developer. <br/>
-Now focusing on frontend of blockchain platform development using React but can support Solidity, Web3.js , Ether.js, Truffle, Rust too.
-I am good at backend also not only frontend.
+#### Frontend Mobile development
+  - React Native, Ionic, Flutter
 
-Prefer challenge jobs that need to learn more knowledge. 
-Will fast learn new technologies and take part in new challenges in short time.
+#### UI libraries
+  - Material UI, Element UI, React Bootstrap, BootstrapVue, Quasar, Vuetify
 
-Looking forward hearing from you about new job opportunity.
-Thanks for checking my profile.</p>
 
-<br>
-<table>
-<tr>
-<td>
-Skype
-</td>
-<td>
-Telegram
-</td>
-<td>
-Phone Number
-</td>
-</tr>
-<tr>
-<td>
-    live:.cid.f81c3a00cb1fc0c2
-</td>
-<td>
-    @soft0Angel
-</td>
-<td>
-    +1 678 999 8183
-</td>
-</tr>
-</table>
 
 #### Frontend and Backend Development
 - HTML5, CSS3, JavaScript, Typescript, Php, Node.js, Python, Dart, C++
