@@ -4,7 +4,7 @@
 - React.js, Next.js
 - Vue.js, Nuxt.js
 - Angular
-- HTML5, CSS, SCSS, TailwindCSS
+- HTML5, CSS, SASS, TailwindCSS
 - Material UI, Element UI, React Bootstrap, BootstrapVue, Quasar, Vuetify
 
 #### Frontend Mobile development
