@@ -1,5 +1,5 @@
 <h2 align="center">The Promised Technologies </h2>
-
+<img src="./src/profile_ani.gif" align="center" width="100%"/>
 #### Frontend Development
 - React.js, Next.js
 - Vue.js, Nuxt.js
